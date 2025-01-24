@@ -1,0 +1,15 @@
+C:\Users\Administrator\Desktop\CleanArchWithCQRSandMediator.API\CleanArchWithCORSandMediator.Application\obj\Debug\net8.0\CleanArchWithCORSandMediator.Application.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\CleanArchWithCQRSandMediator.API\CleanArchWithCORSandMediator.Application\obj\Debug\net8.0\CleanArchWithCORSandMediator.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\CleanArchWithCQRSandMediator.API\CleanArchWithCORSandMediator.Application\obj\Debug\net8.0\CleanArchWithCORSandMediator.Application.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\CleanArchWithCQRSandMediator.API\CleanArchWithCORSandMediator.Application\obj\Debug\net8.0\CleanArchWithCORSandMediator.Application.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\CleanArchWithCQRSandMediator.API\CleanArchWithCORSandMediator.Application\obj\Debug\net8.0\CleanArchWithCORSandMediator.Application.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\CleanArchWithCQRSandMediator.API\CleanArchWithCORSandMediator.Application\bin\Debug\net8.0\CleanArchWithCORSandMediator.Application.deps.json
+C:\Users\Administrator\Desktop\CleanArchWithCQRSandMediator.API\CleanArchWithCORSandMediator.Application\bin\Debug\net8.0\CleanArchWithCORSandMediator.Application.dll
+C:\Users\Administrator\Desktop\CleanArchWithCQRSandMediator.API\CleanArchWithCORSandMediator.Application\bin\Debug\net8.0\CleanArchWithCORSandMediator.Application.pdb
+C:\Users\Administrator\Desktop\CleanArchWithCQRSandMediator.API\CleanArchWithCORSandMediator.Application\obj\Debug\net8.0\CleanArchWithCORSandMediator.Application.dll
+C:\Users\Administrator\Desktop\CleanArchWithCQRSandMediator.API\CleanArchWithCORSandMediator.Application\obj\Debug\net8.0\refint\CleanArchWithCORSandMediator.Application.dll
+C:\Users\Administrator\Desktop\CleanArchWithCQRSandMediator.API\CleanArchWithCORSandMediator.Application\obj\Debug\net8.0\CleanArchWithCORSandMediator.Application.pdb
+C:\Users\Administrator\Desktop\CleanArchWithCQRSandMediator.API\CleanArchWithCORSandMediator.Application\obj\Debug\net8.0\ref\CleanArchWithCORSandMediator.Application.dll
+C:\Users\Administrator\Desktop\CleanArchWithCQRSandMediator.API\CleanArchWithCORSandMediator.Application\bin\Debug\net8.0\CleanArchWithCQRSandMediator.Domain.dll
+C:\Users\Administrator\Desktop\CleanArchWithCQRSandMediator.API\CleanArchWithCORSandMediator.Application\bin\Debug\net8.0\CleanArchWithCQRSandMediator.Domain.pdb
+C:\Users\Administrator\Desktop\CleanArchWithCQRSandMediator.API\CleanArchWithCORSandMediator.Application\obj\Debug\net8.0\CleanArc.4024A421.Up2Date

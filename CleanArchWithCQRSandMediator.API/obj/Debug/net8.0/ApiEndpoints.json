@@ -1,0 +1,160 @@
+[
+  {
+    "ContainingType": "CleanArchWithCQRSandMediator.API.Controllers.Blog.BlogController",
+    "Method": "GetAllAsync",
+    "RelativePath": "api/Blog",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CleanArchWithCQRSandMediator.API.Controllers.Blog.BlogController",
+    "Method": "Create",
+    "RelativePath": "api/Blog",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "command",
+        "Type": "CleanArchWithCORSandMediator.Application.Features.Blog.Commands.CreateBlog.CreateBlogCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CleanArchWithCQRSandMediator.API.Controllers.Blog.BlogController",
+    "Method": "GetById",
+    "RelativePath": "api/Blog/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CleanArchWithCQRSandMediator.API.Controllers.Blog.BlogController",
+    "Method": "Update",
+    "RelativePath": "api/Blog/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "command",
+        "Type": "CleanArchWithCORSandMediator.Application.Features.Blog.Commands.UpdateBlog.UpdateBlogCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CleanArchWithCQRSandMediator.API.Controllers.Blog.BlogController",
+    "Method": "Delete",
+    "RelativePath": "api/Blog/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CleanArchWithCQRSandMediator.API.Controllers.CleanArchWithCQRSandMediator.API.Controllers.BlogPostController",
+    "Method": "GetAllAsync",
+    "RelativePath": "api/BlogPost",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CleanArchWithCQRSandMediator.API.Controllers.CleanArchWithCQRSandMediator.API.Controllers.BlogPostController",
+    "Method": "Create",
+    "RelativePath": "api/BlogPost",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "command",
+        "Type": "CleanArchWithCORSandMediator.Application.Blogs.Commands.CreateBlogPost.CreateBlogPostCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CleanArchWithCQRSandMediator.API.Controllers.CleanArchWithCQRSandMediator.API.Controllers.BlogPostController",
+    "Method": "GetById",
+    "RelativePath": "api/BlogPost/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CleanArchWithCQRSandMediator.API.Controllers.CleanArchWithCQRSandMediator.API.Controllers.BlogPostController",
+    "Method": "Update",
+    "RelativePath": "api/BlogPost/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "command",
+        "Type": "CleanArchWithCORSandMediator.Application.Blogs.Commands.UpdateBlogPost.UpdateBlogPostCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CleanArchWithCQRSandMediator.API.Controllers.CleanArchWithCQRSandMediator.API.Controllers.BlogPostController",
+    "Method": "Delete",
+    "RelativePath": "api/BlogPost/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
