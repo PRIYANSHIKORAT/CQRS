@@ -3,11 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\Administrator\\Desktop\\CleanArchWithCQRSandMediator.API\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C0D30AD2-585A-4714-ACB9-95EB9D4FE59A}|..\\CleanArchWithCQRSandMediator.Domain\\CleanArchWithCQRSandMediator.Domain.csproj|c:\\users\\administrator\\desktop\\cleanarchwithcqrsandmediator.domain\\cleanarchwithcqrsandmediator.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{F63F8D8D-F0E1-40E2-92CF-DED26C0B4DF5}|CleanArchWithCORSandMediator.Application\\CleanArchWithCORSandMediator.Application.csproj|c:\\users\\administrator\\desktop\\cleanarchwithcqrsandmediator.api\\cleanarchwithcorsandmediator.application\\common\\behaviours\\validationbehaviour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F63F8D8D-F0E1-40E2-92CF-DED26C0B4DF5}|CleanArchWithCORSandMediator.Application\\CleanArchWithCORSandMediator.Application.csproj|solutionrelative:cleanarchwithcorsandmediator.application\\common\\behaviours\\validationbehaviour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F63F8D8D-F0E1-40E2-92CF-DED26C0B4DF5}|CleanArchWithCORSandMediator.Application\\CleanArchWithCORSandMediator.Application.csproj|c:\\users\\administrator\\desktop\\cleanarchwithcqrsandmediator.api\\cleanarchwithcorsandmediator.application\\configureservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F63F8D8D-F0E1-40E2-92CF-DED26C0B4DF5}|CleanArchWithCORSandMediator.Application\\CleanArchWithCORSandMediator.Application.csproj|solutionrelative:cleanarchwithcorsandmediator.application\\configureservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16474B9E-0300-441A-B5E5-42E1E640A512}|CleanArchWithCQRSandMediator.API\\CleanArchWithCQRSandMediator.API.csproj|c:\\users\\administrator\\desktop\\cleanarchwithcqrsandmediator.api\\cleanarchwithcqrsandmediator.api\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16474B9E-0300-441A-B5E5-42E1E640A512}|CleanArchWithCQRSandMediator.API\\CleanArchWithCQRSandMediator.API.csproj|solutionrelative:cleanarchwithcqrsandmediator.api\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16474B9E-0300-441A-B5E5-42E1E640A512}|CleanArchWithCQRSandMediator.API\\CleanArchWithCQRSandMediator.API.csproj|c:\\users\\administrator\\desktop\\cleanarchwithcqrsandmediator.api\\cleanarchwithcqrsandmediator.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16474B9E-0300-441A-B5E5-42E1E640A512}|CleanArchWithCQRSandMediator.API\\CleanArchWithCQRSandMediator.API.csproj|solutionrelative:cleanarchwithcqrsandmediator.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -17,19 +26,45 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "CleanArchWithCQRSandMediator.Domain",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\CleanArchWithCQRSandMediator.Domain\\CleanArchWithCQRSandMediator.Domain.csproj",
-              "RelativeDocumentMoniker": "..\\CleanArchWithCQRSandMediator.Domain\\CleanArchWithCQRSandMediator.Domain.csproj",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\CleanArchWithCQRSandMediator.Domain\\CleanArchWithCQRSandMediator.Domain.csproj",
-              "RelativeToolTip": "..\\CleanArchWithCQRSandMediator.Domain\\CleanArchWithCQRSandMediator.Domain.csproj",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\CleanArchWithCQRSandMediator.API\\CleanArchWithCQRSandMediator.API\\Program.cs",
+              "RelativeDocumentMoniker": "CleanArchWithCQRSandMediator.API\\Program.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\CleanArchWithCQRSandMediator.API\\CleanArchWithCQRSandMediator.API\\Program.cs",
+              "RelativeToolTip": "CleanArchWithCQRSandMediator.API\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T16:13:52.578Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\CleanArchWithCQRSandMediator.API\\CleanArchWithCQRSandMediator.API\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "CleanArchWithCQRSandMediator.API\\WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\CleanArchWithCQRSandMediator.API\\CleanArchWithCQRSandMediator.API\\WeatherForecast.cs",
+              "RelativeToolTip": "CleanArchWithCQRSandMediator.API\\WeatherForecast.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-01-24T15:09:12.622Z",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T16:13:51.397Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ValidationBehaviour.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\CleanArchWithCQRSandMediator.API\\CleanArchWithCORSandMediator.Application\\Common\\Behaviours\\ValidationBehaviour.cs",
+              "RelativeDocumentMoniker": "CleanArchWithCORSandMediator.Application\\Common\\Behaviours\\ValidationBehaviour.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\CleanArchWithCQRSandMediator.API\\CleanArchWithCORSandMediator.Application\\Common\\Behaviours\\ValidationBehaviour.cs",
+              "RelativeToolTip": "CleanArchWithCORSandMediator.Application\\Common\\Behaviours\\ValidationBehaviour.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAwwA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T16:09:15.987Z",
               "EditorCaption": ""
             },
             {
@@ -40,7 +75,7 @@
               "RelativeDocumentMoniker": "CleanArchWithCORSandMediator.Application\\ConfigureServices.cs",
               "ToolTip": "C:\\Users\\Administrator\\Desktop\\CleanArchWithCQRSandMediator.API\\CleanArchWithCORSandMediator.Application\\ConfigureServices.cs",
               "RelativeToolTip": "CleanArchWithCORSandMediator.Application\\ConfigureServices.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-24T14:52:07.689Z",
               "EditorCaption": ""

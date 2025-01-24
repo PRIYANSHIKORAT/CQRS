@@ -15,3 +15,4 @@ C:\Users\Administrator\Desktop\CleanArchWithCQRSandMediator.API\ClearArchWithSQR
 C:\Users\Administrator\Desktop\CleanArchWithCQRSandMediator.API\ClearArchWithSQRSandMediator.Infra\obj\Debug\net8.0\ClearArc.1A1E4847.Up2Date
 C:\Users\Administrator\Desktop\CleanArchWithCQRSandMediator.API\ClearArchWithSQRSandMediator.Infra\bin\Debug\net8.0\CleanArchWithCORSandMediator.Application.dll
 C:\Users\Administrator\Desktop\CleanArchWithCQRSandMediator.API\ClearArchWithSQRSandMediator.Infra\bin\Debug\net8.0\CleanArchWithCORSandMediator.Application.pdb
+C:\Users\Administrator\Desktop\CleanArchWithCQRSandMediator.API\ClearArchWithSQRSandMediator.Infra\obj\Debug\net8.0\ClearArchWithSQRSandMediator.Infra.sourcelink.json
